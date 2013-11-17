@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<VisualState xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" ShowCheckBoxes="true">
+  <TopNode>[0-1012]C:\Users\Gaurav\Documents\Visual Studio 2010\Projects\Automation_Framework\Automation_Framework\bin\Debug\Automation_Framework.dll</TopNode>
+  <SelectedNode>[0-1002]Automation_Framework.Tests.Mercury.SelectCitiesAndClassFeature</SelectedNode>
+  <ExcludeCategories>false</ExcludeCategories>
+  <Nodes>
+    <Node UniqueName="[0-1012]C:\Users\Gaurav\Documents\Visual Studio 2010\Projects\Automation_Framework\Automation_Framework\bin\Debug\Automation_Framework.dll" Expanded="true" />
+    <Node UniqueName="[0-1013]Automation_Framework" Expanded="true" />
+    <Node UniqueName="[0-1014]Automation_Framework.Tests" Expanded="true" />
+    <Node UniqueName="[0-1015]Automation_Framework.Tests.Google" Expanded="true" />
+    <Node UniqueName="[0-1000]Automation_Framework.Tests.Google.GoogleSearch_FeatureFeature" Expanded="true" />
+    <Node UniqueName="[0-1016]Automation_Framework.Tests.Mercury" Expanded="true" />
+    <Node UniqueName="[0-1008]Automation_Framework.Tests.Mercury.BookTicketsFeature" Expanded="true" />
+    <Node UniqueName="[0-1004]Automation_Framework.Tests.Mercury.RegistrationFeature" Expanded="true" />
+    <Node UniqueName="[0-1002]Automation_Framework.Tests.Mercury.SelectCitiesAndClassFeature" Expanded="true" />
+    <Node UniqueName="[0-1003]Automation_Framework.Tests.Mercury.SelectCitiesAndClassFeature.CitiesClassAirlines" Checked="true" />
+  </Nodes>
+</VisualState>

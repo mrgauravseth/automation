@@ -1,0 +1,31 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!--This file represents the results of running a test suite-->
+<test-results name="C:\Users\Gaurav\Documents\Visual Studio 2010\Projects\Automation_Framework\Automation_Framework\bin\Debug\Automation_Framework.dll" total="1" errors="0" failures="0" not-run="0" inconclusive="0" ignored="0" skipped="0" invalid="0" date="2013-09-23" time="16:27:51">
+  <environment nunit-version="2.6.2.12296" clr-version="2.0.50727.5472" os-version="Microsoft Windows NT 6.1.7601 Service Pack 1" platform="Win32NT" cwd="C:\Program Files (x86)\NUnit 2.6.2\bin" machine-name="MAHADEV" user="Gaurav" user-domain="MAHADEV" />
+  <culture-info current-culture="en-GB" current-uiculture="en-US" />
+  <test-suite type="Assembly" name="C:\Users\Gaurav\Documents\Visual Studio 2010\Projects\Automation_Framework\Automation_Framework\bin\Debug\Automation_Framework.dll" executed="True" result="Success" success="True" time="90.661" asserts="0">
+    <results>
+      <test-suite type="Namespace" name="Automation_Framework" executed="True" result="Success" success="True" time="90.550" asserts="0">
+        <results>
+          <test-suite type="Namespace" name="Tests" executed="True" result="Success" success="True" time="90.549" asserts="0">
+            <results>
+              <test-suite type="Namespace" name="Mercury" executed="True" result="Success" success="True" time="90.548" asserts="0">
+                <results>
+                  <test-suite type="TestFixture" name="SelectCitiesAndClassFeature" description="SelectCitiesAndClass" executed="True" result="Success" success="True" time="90.541" asserts="0">
+                    <results>
+                      <test-case name="Automation_Framework.Tests.Mercury.SelectCitiesAndClassFeature.CitiesClassAirlines" description="Cities, Class, Airlines" executed="True" result="Success" success="True" time="85.353" asserts="6">
+                        <categories>
+                          <category name="Priority:Medium" />
+                        </categories>
+                      </test-case>
+                    </results>
+                  </test-suite>
+                </results>
+              </test-suite>
+            </results>
+          </test-suite>
+        </results>
+      </test-suite>
+    </results>
+  </test-suite>
+</test-results>
